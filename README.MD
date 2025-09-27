@@ -20,15 +20,15 @@ I'm a PHP developer passionate about creating robust and efficient web solutions
 ## Contact
 - **Email**: [juliocs78383@gmail.com](mailto:juliocs78383@gmail.com)
 - **LinkedIn**: [Julio Cesar on LinkedIn](https://linkedin.com/in/julio-cesar-70938bb0)
-- **GitHub**: [Julio Cesar on GitHub](https://github.com/nego1993)
+- **GitHub**: [Julio Cesar on GitHub](https://github.com/cjulio1993)
 
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nego1993&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjulio1993&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nego1993&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cjulio1993&layout=compact&theme=radical)
 
-![Monthly Commits](https://github-readme-streak-stats.herokuapp.com/?user=nego1993&theme=radical)
+![Monthly Commits](https://github-readme-streak-stats.herokuapp.com/?user=cjulio1993&theme=radical)
 
 ---
