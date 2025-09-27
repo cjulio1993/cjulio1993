@@ -1,6 +1,6 @@
 # Hello, I'm Júlio César 👋  
 
-[🇺🇸 English](#-about-me) | [🇧🇷 Português](#-sobre-mim)  
+[![English](https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg)](#-about-me) | [![Português](https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f7.svg)](#-sobre-mim)  
 
 ---
 
@@ -49,4 +49,4 @@ Tenho experiência sólida com **frameworks backend (Laravel, Symfony, Lumen, Co
 Bancos de dados e otimização de performance fazem parte do meu dia a dia — desde **MySQL e PostgreSQL** até camadas de cache com **Redis**.  
 Estou sempre aprendendo, testando novas tecnologias e buscando maneiras melhores de escrever código limpo e eficiente que gere impacto real.  
 
-💡 O que me mo
+💡 O que me motiva: resolver problemas complexos, melhorar performance e transformar ideias em produtos digitais confiáveis.  
