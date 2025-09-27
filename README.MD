@@ -7,7 +7,7 @@
 I'm a **PHP developer** focused on building **scalable, secure, and user-friendly web applications**.  
 I have solid experience with **backend frameworks (Laravel, Symfony, Lumen, CodeIgniter)** and enjoy combining them with modern frontend tools like **Vue.js and jQuery** to create complete solutions.  
 
-Databases and performance optimization are part of my daily work — from **MySQL and PostgreSQL** to caching layers with **Redis**.  
+Databases and performance optimization are part of my daily work — from **MySQL, SQL server and PostgreSQL** to caching layers with **Redis**.  
 I’m constantly learning, experimenting, and seeking better ways to write clean, efficient code that makes a real impact.  
 
 💡 What drives me: solving complex problems, improving performance, and turning ideas into reliable digital products.  
@@ -23,7 +23,7 @@ I’m constantly learning, experimenting, and seeking better ways to write clean
 Sou um **desenvolvedor PHP** focado em criar aplicações web **escaláveis, seguras e fáceis de usar**.  
 Tenho experiência sólida com **frameworks backend (Laravel, Symfony, Lumen, CodeIgniter)** e gosto de combiná-los com ferramentas modernas de frontend como **Vue.js e jQuery** para entregar soluções completas.  
 
-Bancos de dados e otimização de performance fazem parte do meu dia a dia — desde **MySQL e PostgreSQL** até camadas de cache com **Redis**.  
+Bancos de dados e otimização de performance fazem parte do meu dia a dia — desde **MySQL, SQL server e PostgreSQL** até camadas de cache com **Redis**.  
 Estou sempre aprendendo, testando novas tecnologias e buscando maneiras melhores de escrever código limpo e eficiente que gere impacto real.  
 
 💡 O que me motiva: resolver problemas complexos, melhorar performance e transformar ideias em produtos digitais confiáveis.  
