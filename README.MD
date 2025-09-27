@@ -1,6 +1,6 @@
 # Hello, I'm Júlio César 👋  
 
-<details>
+<details open>
   <summary>🇺🇸 English</summary>
 
 ## 👨‍💻 About Me  
