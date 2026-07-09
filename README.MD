@@ -143,16 +143,16 @@ https://breezeblocks.com.br
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=cjulio1993&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
 <p align=center>
 
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cjulio1993&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </p>
+<p align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=cjulio1993&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
 
 <p align="center">
 
