@@ -130,7 +130,7 @@ Tenho experiência com **MySQL, PostgreSQL, SQL Server, Redis, Docker, Linux, Gi
 - 📧 **Email:** juliocs78383@gmail.com
 - 💼 **LinkedIn:** https://linkedin.com/in/julio-cesar-70938bb0
 - 🐙 **GitHub:** https://github.com/cjulio1993
-- 💻 **Site:** https:breezeblocks.com.br
+- 💻 **Site:** https://breezeblocks.com.br
 
 ---
 
