@@ -80,6 +80,8 @@ Through BreezeBlocks I develop:
 🔗 **Website**
 
 https://breezeblocks.com.br
+https://localcodepilot.com.br/
+https://www.jcesar.dev.br/
 
 ---
 
@@ -136,6 +138,8 @@ https://breezeblocks.com.br
 
 - 📧 **Email:** <juliocs78383@gmail.com>
 - 🌐 **Website:** https://breezeblocks.com.br
+- 🌐 **Portifolio:** https://www.jcesar.dev.br/
+- 🌐 **OpenSource:** https://localcodepilot.com.br/
 - 💼 **LinkedIn:** https://linkedin.com/in/julio-cesar-70938bb0
 - 🐙 **GitHub:** https://github.com/cjulio1993
 
