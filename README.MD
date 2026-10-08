@@ -79,9 +79,9 @@ Through BreezeBlocks I develop:
 
 🔗 **Website**
 
-https://breezeblocks.com.br
-https://localcodepilot.com.br/
-https://www.jcesar.dev.br/
+- https://breezeblocks.com.br
+- https://localcodepilot.com.br/
+- https://www.jcesar.dev.br/
 
 ---
 
